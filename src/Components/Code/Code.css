@@ -1,0 +1,27 @@
+#incode{
+    overflow: auto;
+    background-color: rgb(236, 236, 236);
+    width: 300px;
+    padding:10px 20px;
+    border-radius: 10px;
+    height: 150px;
+}
+#code{
+    margin: auto;
+    margin-top: 40px;
+    width: max-content;
+    position: relative;
+}
+
+#copyBut{
+    position: absolute;
+    top: 0;
+    color: blue;
+    background-color: transparent;
+    border-radius: 20px;
+    margin: 5px;
+    font-family: 'Montserrat';
+    font-weight: 800;
+    border: 1px solid blue;
+    cursor: pointer;
+}

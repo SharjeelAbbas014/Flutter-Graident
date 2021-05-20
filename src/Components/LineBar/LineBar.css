@@ -1,0 +1,7 @@
+#lineBar{
+    height: 60px;
+    width: 80%;
+    margin: 0 auto;
+    transform: translate(0px, 50px);
+    border-radius: 10px;
+}

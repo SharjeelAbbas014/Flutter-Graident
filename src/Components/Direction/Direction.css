@@ -1,0 +1,26 @@
+#directions{
+    display: flex;
+    width: 70%;
+    margin: auto;
+    margin-top: 80px;
+    justify-content: space-evenly;
+}
+.iconContainer{
+    background: #fff;
+    border: #999999 1px solid;
+    border-radius: 200px;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+#directions div img{
+    width: 10px;
+}
+#selected{
+    background: linear-gradient(to right, rgb(252, 119, 251) 10%, rgb(238, 153, 68) 90%);
+    border: none;
+    box-shadow: 5px 5px 20px #72727279;
+}
